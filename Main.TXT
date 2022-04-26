@@ -1,6 +1,6 @@
 First line main!!
-Just a line
+I maide up my mind, this line will be changed!
 Second line main and second
-!!!
+Keep it like this!
 Should be like this!
 Test!
