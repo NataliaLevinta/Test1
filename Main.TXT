@@ -1,6 +1,7 @@
-First line main!!
-I maide up my mind, this line will be changed!
+1
+2
 Second line main and second
 Keep it like this!
 Should be like this!
-Test!
+6
+7
